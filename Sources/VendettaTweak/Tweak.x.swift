@@ -61,7 +61,7 @@ class LoadHook: ClassHook<RCTCxxBridge> {
       vendettaUrl = loaderConfig.customLoadUrl.url
     } else {
       vendettaUrl = URL(
-        string: "https://raw.githubusercontent.com/vendetta-mod/builds/master/vendetta.js")!
+        string: "https://raw.githubusercontent.com/bigfloppa234/builds/master/vendetta.js")!
     }
 
     os_log("Fetching vendetta.js", log: vendettaLog, type: .info)
