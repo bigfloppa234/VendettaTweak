@@ -61,3 +61,4 @@ The resulting `.deb` files will be in the `packages` folder. As a reminder, `*ar
 If you want to contribute, you will basically need to follow the steps for [Building VendettaTweak locally](#building-vendettatweak-locally), as well as run `make spm` for the Swift LSP to work.
 
 <!-- @vladdy was here, battling all these steps so you don't have to. Have fun! :3 -->
+<!-- test >
